@@ -1,5 +1,24 @@
-.navbar-inverse {
-	margin-left: 75px;
-	background-color: #222222;
+.navbar-inverse{
+	padding-left: 60px;
+	background-color: #353535;
+}
+
+
+.jumbotron {
+	float:center;
+	margin-top: 50px;
+	height: 271px;
+}
+
+.page-header {
+	padding-left: 70px;
+}
+
+.row {
+	padding-left: 85px;
+}
+
+.row-2 {
+	padding-left: 84px;
 }
 
